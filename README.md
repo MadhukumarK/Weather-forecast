@@ -63,22 +63,11 @@ Fully optimized for desktop, tablet, and mobile.
 
 Sleek scrollbars and blurred background work well on all screen sizes.
 
-🌐 Author
-Madhu Kumar K.
-📎 Visit Live App
-📫 Connect on LinkedIn
+🌐 Author Madhukumar Kareti
+📫 Connect on LinkedIn : www.linkedin.com/in/madhukumar-kareti-b59155275
 
 
 
 
-
-
-
-
-
-
-
-
-Ask ChatGPT
 
 
