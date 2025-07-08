@@ -59,22 +59,6 @@ A modern, responsive, and elegant weather forecasting web app that displays real
 └── README.md
 
 
-## 📌 How to Use Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/weather-forecast-app.git
-   cd weather-forecast-app
-Open index.html in your browser
-
-(Optional) Add your OpenWeatherMap API key
-Edit the following line in script.js:
-
-js
-Copy
-Edit
-const apiKey = 'your_api_key_here';
-📱 Responsive Design
 Fully optimized for desktop, tablet, and mobile.
 
 Sleek scrollbars and blurred background work well on all screen sizes.
