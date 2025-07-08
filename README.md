@@ -65,7 +65,7 @@ Sleek scrollbars and blurred background work well on all screen sizes.
 
 🌐 Author :Madhukumar Kareti
 
-📫 Connect on LinkedIn :  [Madhukumar Kareti](www.linkedin.com/in/madhukumar-kareti-b59155275)
+📫 Connect on LinkedIn :  www.linkedin.com/in/madhukumar-kareti-b59155275
 
 
 
