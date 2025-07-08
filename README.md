@@ -63,8 +63,9 @@ Fully optimized for desktop, tablet, and mobile.
 
 Sleek scrollbars and blurred background work well on all screen sizes.
 
-🌐 Author Madhukumar Kareti
-📫 Connect on LinkedIn : www.linkedin.com/in/madhukumar-kareti-b59155275
+🌐 Author :Madhukumar Kareti
+
+📫 Connect on LinkedIn : **Madhukumar** [www.linkedin.com/in/madhukumar-kareti-b59155275](www.linkedin.com/in/madhukumar-kareti-b59155275)
 
 
 
